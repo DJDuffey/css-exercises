@@ -1,1 +1,23 @@
 /* Add CSS Styling */
+
+.header{
+    font-size: 24px;
+}
+
+p
+{   
+    color:black;
+    background-color: rgb(164, 91, 103);
+    font-family: verdana, sans-serif;
+}
+
+.blueheader{
+    color:blue;
+    font-size: 36px;
+}
+
+.greenheader{
+    background-color: rgb(100, 200, 30);
+    font-size: 24px;
+    font-weight: bold;
+}
