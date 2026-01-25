@@ -46,3 +46,33 @@ a {
 ul {
   list-style-type: none;
 }
+
+/* start new code */
+
+.header{
+  display: flex;
+  justify-content: space-between ;
+}
+
+.left, .right{
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+
+ul {
+  display: flex;
+  gap: 16px;
+  padding: 0px;
+}
+
+button {
+  display: flex;
+}
+
+.profile-image{
+  display: flex;
+  margin: 8px;
+
+}
