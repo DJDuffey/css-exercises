@@ -1,1 +1,0 @@
-alert("The office is closed");
