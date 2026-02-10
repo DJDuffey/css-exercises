@@ -122,3 +122,33 @@ button {
     font-size: 16px;
     text-align: right;
 }
+
+.call-to-action{
+    display: flex;
+    margin: 40px;
+    background-color: #3882F6;
+    border-radius: 5px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container{
+    padding: 10px;
+    padding-right: 20px;
+    justify-content: center;
+    align-items: left;
+}
+
+.lower-button {
+    color:  #F9FAf8;
+    border: 2px, solid, #F9FAf8;
+}
+
+h4 {
+    color:  #F9FAf8;
+}
+
+.botton-text{
+    font-size: 14px;
+
+}
